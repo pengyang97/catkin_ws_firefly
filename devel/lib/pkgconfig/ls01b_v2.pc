@@ -1,0 +1,8 @@
+prefix=/home/pengyang/catkin_ws_firefly/devel
+
+Name: ls01b_v2
+Description: Description of ls01b_v2
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
